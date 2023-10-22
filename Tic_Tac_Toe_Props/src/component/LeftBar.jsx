@@ -9,7 +9,7 @@ const LeftBar = ({ winnerCount }) => {
             
             <h4>Winning Number</h4>
 
-            <div className="elem">
+            <div className="elem first-elem">
             <p>  X :</p> <span>{winnerCount.x}</span>
             </div>
             <div className="elem">
